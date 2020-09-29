@@ -1,0 +1,17 @@
+.buttons-container {
+  display: flex;
+  flex-direction: column;
+  margin-right: 2rem;
+  padding-right: 2rem;
+  border-right: 1px solid;
+}
+
+.buttons-container button {
+  margin-bottom: 1rem;
+  padding: 0.5rem;
+  border: none;
+}
+
+.buttons-container button:last-of-type {
+  margin-bottom: 0;
+}
