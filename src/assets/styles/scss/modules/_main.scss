@@ -5,4 +5,16 @@
   width: 300px;
   border-bottom: 1px solid black;
   padding-bottom: 0.2rem;
+  margin-bottom: 1rem;
+}
+
+.person {
+  display: flex;
+  justify-content: space-between;
+}
+
+.total-wealth {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 2rem;
 }
